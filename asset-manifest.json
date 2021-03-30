@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-monery-website/static/css/main.2b038655.chunk.css",
+    "main.js": "/react-monery-website/static/js/main.e645de1c.chunk.js",
+    "main.js.map": "/react-monery-website/static/js/main.e645de1c.chunk.js.map",
+    "runtime-main.js": "/react-monery-website/static/js/runtime-main.43676e5e.js",
+    "runtime-main.js.map": "/react-monery-website/static/js/runtime-main.43676e5e.js.map",
+    "static/js/2.1cf565aa.chunk.js": "/react-monery-website/static/js/2.1cf565aa.chunk.js",
+    "static/js/2.1cf565aa.chunk.js.map": "/react-monery-website/static/js/2.1cf565aa.chunk.js.map",
+    "index.html": "/react-monery-website/index.html",
+    "static/css/main.2b038655.chunk.css.map": "/react-monery-website/static/css/main.2b038655.chunk.css.map",
+    "static/js/2.1cf565aa.chunk.js.LICENSE.txt": "/react-monery-website/static/js/2.1cf565aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43676e5e.js",
+    "static/js/2.1cf565aa.chunk.js",
+    "static/css/main.2b038655.chunk.css",
+    "static/js/main.e645de1c.chunk.js"
+  ]
+}
